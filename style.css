@@ -295,12 +295,6 @@ body {
   font-size: 14px;
 }
 
-@media (max-width: 768px) {
-  .hero h1 { font-size: 36px; }
-  .section h2 { font-size: 28px; }
-  .tech-grid { grid-template-columns: 1fr; }
-  .authors { grid-template-columns: 1fr; }
-}
 
 
               </style>
